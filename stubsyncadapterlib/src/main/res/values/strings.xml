@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StubSyncAdapterLib</string>
+    <string name="provider_name">cat.xlagunas.stubsyncadapterlib</string>
+    <string name="sync_metadata">sync_service_classname</string>
+</resources>
